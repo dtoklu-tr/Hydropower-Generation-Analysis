@@ -1,0 +1,13 @@
+Month,Assumed inflow (m3/s),Days
+January,12.0,31
+February,14.0,28
+March,18.0,31
+April,25.0,30
+May,30.0,31
+June,28.0,30
+July,22.0,31
+August,16.0,31
+September,12.0,30
+October,10.0,31
+November,9.0,30
+December,11.0,31
